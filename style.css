@@ -1,0 +1,69 @@
+.header {
+    display: flex;
+    justify-content: flex-start;
+
+    background-color: rgb(252, 247, 247);
+
+    width: (1, 440px)px;
+    height: (97.94px)px;
+    padding: 24px;
+    gap: 0px;
+    opacity: 0px;
+    text-decoration-color: red;
+    align-items: center;
+
+}
+
+
+
+
+.button {
+    background-color: brown;
+    border-radius: 50px;
+    display: flex;
+    justify-content: center;
+     color:red;
+}
+
+
+
+
+
+
+
+
+
+.layout {
+    width: 1440px;
+    height: 533px;
+    top: 98px;
+
+    opacity: 0px;
+    background-color: black;
+    align-items: center;
+}
+
+
+
+.services {
+    background-color: white;
+
+    width: 1440px;
+    height: 866px;
+    top: 631px;
+    gap: 0px;
+    opacity: 0px;
+
+
+}
+
+.cta {
+    width: 1440px;
+    height: 669px;
+    top: 1447px;
+    left: 1px;
+    gap: 0px;
+    opacity: 0px;
+    background-color: rgba(14, 180, 193, 1);
+
+}
